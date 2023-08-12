@@ -6,7 +6,7 @@
 ![Estatísticas do GitHub de Liana Maia](https://github-readme-stats.vercel.app/api?username=lianamaia&show_icons=true&theme=dracula)
 
 ## Most used languages
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lianamaia&layout=compact&theme=dracula)](https://github.com/conradogui/github-readme-stats)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lianamaia&layout=compact&theme=dracula)](https://github.com/lianamaia/github-readme-stats)
 
 ## Technologies I use
 
